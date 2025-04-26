@@ -127,7 +127,7 @@ const SignIn = () => {
     <div
     className="min-h-screen flex items-center justify-center bg-cover bg-center"
     style={{
-      backgroundImage: "url('https://cdn.discordapp.com/attachments/1275127310395379795/1360008947527848156/signin-back.jpg?ex=67f98e88&is=67f83d08&hm=fccb981fa73a81a02752bc05aa6a308b158326ce3c88c1fe04242624683c206a&format=webp&width=882&height=882')",
+      backgroundImage: "url('https://cdn.discordapp.com/attachments/1275127310395379795/1360008947527848156/signin-back.jpg?ex=680d5508&is=680c0388&hm=32f5af3b158867c1f292f1d323bc397acf06a73760ca96a47fdb68ed64ec14fc&')",
     }}>
       <div className="w-full max-w-md p-4">
         <Card className="shadow-lg">
