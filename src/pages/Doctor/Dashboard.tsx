@@ -158,7 +158,7 @@ const DoctorDashboard = () => {
   }
 
   return (
-    <div className="min-h-screen bg-cover bg-center" style={{ backgroundImage: "url('https://cdn.discordapp.com/attachments/1275127310395379795/1360016256866193408/04_11_2025_X-Design.png?ex=67f99557&is=67f843d7&hm=d0c1ed832c9256e18918613e33819812f3f7cdbe31d39c0846de8628f23c3193&')" }}>
+    <div className="min-h-screen bg-cover bg-center" style={{ backgroundImage: "url('https://cdn.discordapp.com/attachments/1275127310395379795/1360016256866193408/04_11_2025_X-Design.png?ex=680d5bd7&is=680c0a57&hm=2bf9d08b9de905844ff670174b888375456bacf16961ed4eb86dc0c037536b01&')" }}>
       {/* Header */}
       <DoctorHeader
         user={user}
